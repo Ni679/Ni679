@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Developing lightweight, high-utility desktop applications using C++, C#, and web technologies.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>🌱 I’m currently learning:<br>WPF and Vector Database3.<br><br>💬 Ask me about:<br>C++, C#, and any general software development questions.<br><br>⚡ Fun fact:<br>I love creating content.
+🔭 I’m currently working on:<br>Developing lightweight, high-utility desktop applications using C++, C#, and web technologies.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>🌱 I’m currently learning:<br>WPF and Vector Database.<br><br>💬 Ask me about:<br>C++, C#, and any general software development questions.<br><br>⚡ Fun fact:<br>I love creating content.
 
 
 ## 🌐 Socials:
